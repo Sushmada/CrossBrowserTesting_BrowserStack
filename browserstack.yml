@@ -1,0 +1,15 @@
+userName: sushmada_siaFJ4
+accessKey: q1xnMkAFKAAraax8yp5R
+framework: testng
+platforms:
+  - deviceName: iPhone 7
+    osVersion: 12
+    browserName: ios
+  - os: Windows
+    osVersion: 7
+    browserName: Chrome
+    browserVersion: 77.0
+  - os: OS X
+    osVersion: Lion
+    browserName: Safari
+    browserVersion: 6.0

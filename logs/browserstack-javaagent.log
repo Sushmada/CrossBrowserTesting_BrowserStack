@@ -1,0 +1,2 @@
+22:57:38.161 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+22:57:38.485 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)

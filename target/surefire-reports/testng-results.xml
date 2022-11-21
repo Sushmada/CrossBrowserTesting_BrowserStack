@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26272" started-at="2022-11-20T22:57:40 IST" finished-at="2022-11-20T22:58:06 IST">
+    <groups>
+    </groups>
+    <test name="Test-1" duration-ms="17210" started-at="2022-11-20T22:57:40 IST" finished-at="2022-11-20T22:57:57 IST">
+      <class name="CrossBrowserTesting_BrowserStack.CrossBrowserTesting_BrowserStack">
+        <test-method status="PASS" signature="CrossBrowser()[pri:0, instance:CrossBrowserTesting_BrowserStack.CrossBrowserTesting_BrowserStack@48075da3]" name="CrossBrowser" duration-ms="16985" started-at="2022-11-20T22:57:40 IST" finished-at="2022-11-20T22:57:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CrossBrowser -->
+      </class> <!-- CrossBrowserTesting_BrowserStack.CrossBrowserTesting_BrowserStack -->
+    </test> <!-- Test-1 -->
+    <test name="Test-2" duration-ms="24857" started-at="2022-11-20T22:57:40 IST" finished-at="2022-11-20T22:58:05 IST">
+      <class name="CrossBrowserTesting_BrowserStack.CrossBrowserTesting_BrowserStack">
+        <test-method status="PASS" signature="CrossBrowser()[pri:0, instance:CrossBrowserTesting_BrowserStack.CrossBrowserTesting_BrowserStack@2cb4893b]" name="CrossBrowser" duration-ms="24466" started-at="2022-11-20T22:57:40 IST" finished-at="2022-11-20T22:58:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CrossBrowser -->
+      </class> <!-- CrossBrowserTesting_BrowserStack.CrossBrowserTesting_BrowserStack -->
+    </test> <!-- Test-2 -->
+    <test name="Test-0" duration-ms="26272" started-at="2022-11-20T22:57:40 IST" finished-at="2022-11-20T22:58:06 IST">
+      <class name="CrossBrowserTesting_BrowserStack.CrossBrowserTesting_BrowserStack">
+        <test-method status="PASS" signature="CrossBrowser()[pri:0, instance:CrossBrowserTesting_BrowserStack.CrossBrowserTesting_BrowserStack@15bb5034]" name="CrossBrowser" duration-ms="26064" started-at="2022-11-20T22:57:40 IST" finished-at="2022-11-20T22:58:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CrossBrowser -->
+      </class> <!-- CrossBrowserTesting_BrowserStack.CrossBrowserTesting_BrowserStack -->
+    </test> <!-- Test-0 -->
+  </suite> <!-- Suite -->
+</testng-results>
